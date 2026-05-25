@@ -1,4 +1,4 @@
-# Inventory Health Analytics
+# Inventory Health Diagnostics
 
 A department-level inventory diagnostic framework for a fictional outdoor specialty
 retailer (~$150M revenue, "Summit & Stone Outfitters"). Identifies underperforming
