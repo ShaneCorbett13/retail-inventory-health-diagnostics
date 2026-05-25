@@ -1,0 +1,695 @@
+Department,SKUID,Brand,UnitsOnOrder,POCostValue,ExpectedReceiptDays
+Ski Hardware,SKI_HARDWARE_0002,Deepfreeze,6,3335.52,67
+Ski Hardware,SKI_HARDWARE_0004,Frostline,15,9037.5,20
+Ski Hardware,SKI_HARDWARE_0005,Deepfreeze,7,3674.16,83
+Ski Hardware,SKI_HARDWARE_0008,Stonepath,8,2062.56,42
+Ski Hardware,SKI_HARDWARE_0009,Stonepath,5,1609.7,83
+Ski Hardware,SKI_HARDWARE_0012,Dustfall,7,4266.57,41
+Ski Hardware,SKI_HARDWARE_0016,Gravelpath,8,3175.52,34
+Ski Hardware,SKI_HARDWARE_0017,Mesaflow,14,6072.78,23
+Ski Hardware,SKI_HARDWARE_0020,Gravelpath,18,5777.28,76
+Ski Hardware,SKI_HARDWARE_0023,Deepfreeze,7,3582.46,107
+Ski Hardware,SKI_HARDWARE_0028,Deepfreeze,10,5242.1,7
+Ski Hardware,SKI_HARDWARE_0033,Deepfreeze,3,1540.62,79
+Ski Hardware,SKI_HARDWARE_0034,Gravelpath,8,3682.08,30
+Ski Hardware,SKI_HARDWARE_0037,Stonepath,12,3811.8,73
+Ski Hardware,SKI_HARDWARE_0043,Deepfreeze,9,4553.73,70
+Ski Hardware,SKI_HARDWARE_0044,Stonepath,32,4803.84,29
+Ski Hardware,SKI_HARDWARE_0045,Stonepath,9,5788.17,28
+Ski Hardware,SKI_HARDWARE_0046,Gravelpath,6,411.54,21
+Ski Hardware,SKI_HARDWARE_0052,Mesaflow,6,1619.34,8
+Ski Hardware,SKI_HARDWARE_0055,Stonepath,3,1766.7,33
+Ski Hardware,SKI_HARDWARE_0059,Stonepath,5,3180.2,56
+Ski Hardware,SKI_HARDWARE_0060,Frostline,8,4199.2,31
+Ski Hardware,SKI_HARDWARE_0065,Dustfall,11,2108.59,55
+Ski Hardware,SKI_HARDWARE_0072,Stonepath,2,1026.76,7
+Ski Hardware,SKI_HARDWARE_0077,Frostline,3,801.27,11
+Ski Hardware,SKI_HARDWARE_0078,Dustfall,33,10803.21,70
+Ski Hardware,SKI_HARDWARE_0079,Rockline,6,1027.5,46
+Ski Hardware,SKI_HARDWARE_0089,Deepfreeze,2,1291.26,48
+Ski Hardware,SKI_HARDWARE_0091,Deepfreeze,2,408.58,92
+Ski Hardware,SKI_HARDWARE_0101,Mesaflow,8,4873.28,58
+Ski Hardware,SKI_HARDWARE_0103,Stonepath,6,1162.62,82
+Ski Hardware,SKI_HARDWARE_0107,Rockline,21,8563.59,79
+Ski Hardware,SKI_HARDWARE_0108,Frostline,3,1447.8,69
+Ski Hardware,SKI_HARDWARE_0109,Gravelpath,8,4049.04,47
+Ski Hardware,SKI_HARDWARE_0110,Stonepath,4,2211.88,7
+Ski Hardware,SKI_HARDWARE_0111,Rockline,9,5136.57,7
+Ski Hardware,SKI_HARDWARE_0115,Deepfreeze,6,1068.06,57
+Ski Hardware,SKI_HARDWARE_0116,Gravelpath,1,271.09,37
+Snowboard Hardware,SNOWBOARD_HARD_0003,Alpenglow,3,761.31,7
+Snowboard Hardware,SNOWBOARD_HARD_0006,Alpenglow,12,4821.12,14
+Snowboard Hardware,SNOWBOARD_HARD_0008,Alpenglow,5,1555.2,30
+Snowboard Hardware,SNOWBOARD_HARD_0012,Terracross,4,162.76,99
+Snowboard Hardware,SNOWBOARD_HARD_0013,Alpenglow,5,2943.45,16
+Snowboard Hardware,SNOWBOARD_HARD_0014,Terracross,21,2445.24,85
+Snowboard Hardware,SNOWBOARD_HARD_0016,Terracross,25,1939.75,39
+Snowboard Hardware,SNOWBOARD_HARD_0017,Edgewood,5,2751.2,54
+Snowboard Hardware,SNOWBOARD_HARD_0021,Alpenglow,12,482.76,39
+Snowboard Hardware,SNOWBOARD_HARD_0024,Alpenglow,2,1235.34,42
+Snowboard Hardware,SNOWBOARD_HARD_0025,Edgewood,7,4309.76,7
+Snowboard Hardware,SNOWBOARD_HARD_0029,Iceform,2,569.12,39
+Snowboard Hardware,SNOWBOARD_HARD_0034,Alpenglow,3,430.5,18
+Snowboard Hardware,SNOWBOARD_HARD_0036,Iceform,10,4986.7,30
+Snowboard Hardware,SNOWBOARD_HARD_0038,Edgewood,17,7880.86,31
+Snowboard Hardware,SNOWBOARD_HARD_0041,Edgewood,7,1466.29,49
+Snowboard Hardware,SNOWBOARD_HARD_0044,Alpenglow,5,1885.4,38
+Snowboard Hardware,SNOWBOARD_HARD_0048,Alpenglow,18,983.16,76
+Snowboard Hardware,SNOWBOARD_HARD_0049,Terracross,8,1114.32,114
+Snowboard Hardware,SNOWBOARD_HARD_0052,Alpenglow,10,1526.6,7
+Snowboard Hardware,SNOWBOARD_HARD_0053,Terracross,3,1589.64,23
+Snowboard Hardware,SNOWBOARD_HARD_0055,Alpenglow,6,3835.5,71
+Snowboard Hardware,SNOWBOARD_HARD_0057,Iceform,8,4732.88,38
+Snowboard Hardware,SNOWBOARD_HARD_0062,Alpenglow,1,611.14,77
+Snowboard Hardware,SNOWBOARD_HARD_0067,Edgewood,6,1443.0,43
+Snowboard Hardware,SNOWBOARD_HARD_0070,Terracross,36,14443.92,37
+Snowboard Hardware,SNOWBOARD_HARD_0072,Iceform,8,2148.4,65
+Snowboard Hardware,SNOWBOARD_HARD_0077,Edgewood,6,3795.12,11
+Snowboard Hardware,SNOWBOARD_HARD_0081,Terracross,9,2822.04,42
+Snowboard Hardware,SNOWBOARD_HARD_0086,Iceform,1,487.52,7
+Snowboard Hardware,SNOWBOARD_HARD_0087,Terracross,4,1266.64,31
+Snowboard Hardware,SNOWBOARD_HARD_0094,Iceform,3,528.81,61
+Snowboard Hardware,SNOWBOARD_HARD_0095,Edgewood,7,3930.5,7
+Snowboard Hardware,SNOWBOARD_HARD_0096,Iceform,9,1886.58,57
+Snowboard Hardware,SNOWBOARD_HARD_0101,Iceform,22,1159.84,73
+Snowboard Hardware,SNOWBOARD_HARD_0103,Edgewood,4,1461.12,22
+Snowboard Hardware,SNOWBOARD_HARD_0106,Edgewood,6,2806.8,18
+Snowboard Hardware,SNOWBOARD_HARD_0108,Alpenglow,5,146.45,14
+Snowboard Hardware,SNOWBOARD_HARD_0109,Alpenglow,18,11361.06,53
+Snowboard Hardware,SNOWBOARD_HARD_0114,Alpenglow,16,8979.84,60
+Snowboard Hardware,SNOWBOARD_HARD_0120,Alpenglow,3,1218.87,47
+Snowboard Hardware,SNOWBOARD_HARD_0123,Alpenglow,10,320.7,12
+Snowboard Hardware,SNOWBOARD_HARD_0132,Iceform,4,1517.88,40
+Bikes,BIKES_0001,Edgewood,6,450.84,32
+Bikes,BIKES_0002,Basecamp,5,1159.95,71
+Bikes,BIKES_0005,Edgewood,3,264.12,38
+Bikes,BIKES_0008,Basecamp,6,3661.32,59
+Bikes,BIKES_0009,Edgewood,3,495.27,16
+Bikes,BIKES_0013,Trailhead,6,155.04,113
+Bikes,BIKES_0022,Duskridge,15,7412.85,35
+Bikes,BIKES_0029,Stonepath,4,1752.04,82
+Bikes,BIKES_0032,Basecamp,12,6327.36,26
+Bikes,BIKES_0033,Edgewood,15,6093.45,75
+Bikes,BIKES_0034,Duskridge,5,2674.35,7
+Bikes,BIKES_0040,Basecamp,14,2255.12,51
+Bikes,BIKES_0048,Stonepath,8,5154.48,47
+Bikes,BIKES_0051,Duskridge,14,7647.78,58
+Bikes,BIKES_0053,Stonepath,9,838.98,18
+Bikes,BIKES_0055,Duskridge,7,2048.69,56
+Bikes,BIKES_0057,Edgewood,8,4252.08,36
+Bikes,BIKES_0058,Trailhead,18,9725.22,63
+Bikes,BIKES_0060,Trailhead,25,9737.5,67
+Bikes,BIKES_0062,Duskridge,5,1454.1,54
+Bikes,BIKES_0065,Stonepath,7,130.41,30
+Bikes,BIKES_0066,Edgewood,2,66.62,50
+Bikes,BIKES_0073,Duskridge,7,1044.61,66
+Bikes,BIKES_0076,Stonepath,5,557.5,64
+Bikes,BIKES_0077,Stonepath,11,280.06,58
+Bikes,BIKES_0079,Stonepath,23,9874.13,14
+Bikes,BIKES_0080,Basecamp,17,8000.03,38
+Bikes,BIKES_0083,Basecamp,1,316.86,88
+Bikes,BIKES_0088,Stonepath,5,933.5,78
+Bikes,BIKES_0090,Trailhead,3,403.44,11
+Bikes,BIKES_0092,Edgewood,9,5204.7,59
+Bikes,BIKES_0096,Basecamp,2,373.86,76
+Bikes,BIKES_0099,Stonepath,11,1556.61,71
+Bikes,BIKES_0100,Edgewood,2,454.98,7
+Bikes,BIKES_0105,Stonepath,10,1273.5,41
+Bikes,BIKES_0108,Stonepath,4,2387.72,49
+Bikes,BIKES_0109,Edgewood,2,908.98,16
+Bikes,BIKES_0110,Duskridge,5,2336.0,120
+Bikes,BIKES_0111,Trailhead,10,2484.8,90
+Bikes,BIKES_0112,Trailhead,9,490.14,7
+Bikes,BIKES_0114,Duskridge,5,1843.85,7
+Bikes,BIKES_0116,Trailhead,8,697.6,88
+Bikes,BIKES_0117,Basecamp,5,2453.35,109
+Bikes,BIKES_0119,Duskridge,11,5814.05,36
+Bikes,BIKES_0120,Trailhead,10,2956.7,59
+Bikes,BIKES_0129,Duskridge,12,3502.68,29
+Bikes,BIKES_0132,Basecamp,18,10942.2,40
+Bikes,BIKES_0134,Basecamp,6,155.28,21
+Bikes,BIKES_0140,Duskridge,9,1971.18,32
+Bikes,BIKES_0143,Basecamp,30,18633.0,19
+Bikes,BIKES_0146,Basecamp,4,261.04,63
+Bike Components,BIKE_COMPONENT_0001,Pinnacle,10,5770.7,22
+Bike Components,BIKE_COMPONENT_0002,Alpenglow,3,1468.77,15
+Bike Components,BIKE_COMPONENT_0003,Iceform,8,1947.44,4
+Bike Components,BIKE_COMPONENT_0015,Alpenglow,9,1392.84,30
+Bike Components,BIKE_COMPONENT_0022,Alpenglow,13,4760.73,44
+Bike Components,BIKE_COMPONENT_0026,Pinnacle,5,2720.15,69
+Bike Components,BIKE_COMPONENT_0029,Pinnacle,2,780.2,30
+Bike Components,BIKE_COMPONENT_0034,Opentrail,6,3134.04,5
+Bike Components,BIKE_COMPONENT_0040,Basecamp,18,6778.26,29
+Bike Components,BIKE_COMPONENT_0044,Basecamp,19,10242.71,65
+Bike Components,BIKE_COMPONENT_0045,Ridgecrest,9,1103.58,17
+Bike Components,BIKE_COMPONENT_0047,Alpenglow,18,6425.1,82
+Bike Components,BIKE_COMPONENT_0048,Opentrail,13,2218.06,111
+Bike Components,BIKE_COMPONENT_0058,Iceform,10,5651.1,72
+Bike Components,BIKE_COMPONENT_0076,Ridgecrest,7,130.13,3
+Bike Components,BIKE_COMPONENT_0084,Basecamp,41,19576.27,28
+Bike Components,BIKE_COMPONENT_0087,Ridgecrest,8,2307.44,21
+Bike Components,BIKE_COMPONENT_0093,Basecamp,8,3371.44,58
+Bike Components,BIKE_COMPONENT_0096,Ridgecrest,13,769.86,30
+Bike Components,BIKE_COMPONENT_0097,Ridgecrest,5,1693.15,39
+Bike Components,BIKE_COMPONENT_0102,Basecamp,21,6895.56,81
+Bike Components,BIKE_COMPONENT_0109,Pinnacle,25,5180.0,63
+Bike Components,BIKE_COMPONENT_0111,Alpenglow,5,1445.9,55
+Bike Components,BIKE_COMPONENT_0114,Basecamp,17,5735.97,36
+Bike Components,BIKE_COMPONENT_0121,Basecamp,20,6760.6,44
+Bike Components,BIKE_COMPONENT_0135,Iceform,5,2848.05,16
+Bike Components,BIKE_COMPONENT_0137,Alpenglow,14,1673.14,15
+Bike Components,BIKE_COMPONENT_0138,Iceform,7,156.45,7
+Bike Components,BIKE_COMPONENT_0139,Ridgecrest,8,1274.24,54
+Bike Components,BIKE_COMPONENT_0140,Iceform,4,2010.64,47
+Bike Components,BIKE_COMPONENT_0147,Alpenglow,4,1078.0,52
+Bike Components,BIKE_COMPONENT_0161,Alpenglow,1,44.46,65
+Bike Components,BIKE_COMPONENT_0165,Alpenglow,13,2508.22,32
+Bike Components,BIKE_COMPONENT_0171,Iceform,15,8481.3,34
+Bike Components,BIKE_COMPONENT_0181,Ridgecrest,2,366.28,58
+Bike Components,BIKE_COMPONENT_0184,Iceform,10,1158.7,50
+Bike Components,BIKE_COMPONENT_0186,Alpenglow,5,2697.75,52
+Bike Components,BIKE_COMPONENT_0189,Pinnacle,8,2410.88,7
+Bike Components,BIKE_COMPONENT_0196,Alpenglow,7,1217.65,33
+Bike Components,BIKE_COMPONENT_0201,Opentrail,4,2347.68,47
+Bike Components,BIKE_COMPONENT_0202,Opentrail,8,4331.52,55
+Bike Components,BIKE_COMPONENT_0206,Ridgecrest,8,2488.56,67
+Bike Components,BIKE_COMPONENT_0209,Alpenglow,2,374.3,60
+Bike Components,BIKE_COMPONENT_0210,Basecamp,23,7224.76,33
+Bike Components,BIKE_COMPONENT_0212,Pinnacle,6,2386.98,70
+Bike Components,BIKE_COMPONENT_0214,Alpenglow,6,3186.66,33
+Bike Components,BIKE_COMPONENT_0220,Pinnacle,2,606.0,83
+Bike Components,BIKE_COMPONENT_0235,Basecamp,29,4079.43,7
+Bike Components,BIKE_COMPONENT_0246,Opentrail,10,2099.1,3
+Bike Components,BIKE_COMPONENT_0247,Basecamp,9,805.95,33
+Bike Components,BIKE_COMPONENT_0249,Alpenglow,6,1756.02,72
+Bike Components,BIKE_COMPONENT_0250,Basecamp,20,2925.0,7
+Bike Components,BIKE_COMPONENT_0251,Basecamp,12,3390.12,84
+Bike Components,BIKE_COMPONENT_0268,Ridgecrest,2,216.58,9
+Bike Components,BIKE_COMPONENT_0274,Pinnacle,7,3753.61,55
+Bike Components,BIKE_COMPONENT_0282,Ridgecrest,4,1268.64,16
+Bike Components,BIKE_COMPONENT_0301,Iceform,2,83.12,33
+Bike Components,BIKE_COMPONENT_0303,Basecamp,37,13435.07,19
+Bike Components,BIKE_COMPONENT_0304,Pinnacle,13,2784.21,25
+Bike Components,BIKE_COMPONENT_0305,Ridgecrest,10,4103.9,67
+Bike Components,BIKE_COMPONENT_0310,Iceform,33,19530.06,55
+Bike Components,BIKE_COMPONENT_0319,Basecamp,5,1331.1,101
+Bike Components,BIKE_COMPONENT_0323,Basecamp,50,29927.5,17
+Bike Components,BIKE_COMPONENT_0324,Alpenglow,26,6346.34,33
+Bike Components,BIKE_COMPONENT_0330,Ridgecrest,1,397.4,44
+Bike Components,BIKE_COMPONENT_0334,Alpenglow,6,1107.0,97
+Bike Components,BIKE_COMPONENT_0338,Pinnacle,3,135.81,83
+Bike Components,BIKE_COMPONENT_0339,Alpenglow,10,5814.8,55
+Bike Components,BIKE_COMPONENT_0349,Iceform,2,429.86,29
+Kayaks & Canoes,KAYAKS_AND_CAN_0007,Alpenglow,6,961.08,88
+Kayaks & Canoes,KAYAKS_AND_CAN_0009,Coastline,2,1289.6,47
+Kayaks & Canoes,KAYAKS_AND_CAN_0010,Ridgecrest,4,1986.64,26
+Kayaks & Canoes,KAYAKS_AND_CAN_0012,Ridgecrest,15,8320.05,73
+Kayaks & Canoes,KAYAKS_AND_CAN_0015,Alpenglow,6,670.92,21
+Kayaks & Canoes,KAYAKS_AND_CAN_0016,Terracross,10,1511.0,91
+Kayaks & Canoes,KAYAKS_AND_CAN_0018,Ridgecrest,15,9677.85,7
+Kayaks & Canoes,KAYAKS_AND_CAN_0019,Terracross,2,675.14,64
+Kayaks & Canoes,KAYAKS_AND_CAN_0021,Ridgecrest,10,5637.3,107
+Kayaks & Canoes,KAYAKS_AND_CAN_0025,Rockline,9,3831.84,46
+Kayaks & Canoes,KAYAKS_AND_CAN_0029,Ridgecrest,20,3739.8,68
+Kayaks & Canoes,KAYAKS_AND_CAN_0030,Ridgecrest,6,2884.32,60
+Kayaks & Canoes,KAYAKS_AND_CAN_0033,Ironpass,10,5929.9,76
+Kayaks & Canoes,KAYAKS_AND_CAN_0043,Ridgecrest,4,220.64,58
+Kayaks & Canoes,KAYAKS_AND_CAN_0045,Coastline,6,572.1,21
+Kayaks & Canoes,KAYAKS_AND_CAN_0046,Alpenglow,7,2806.86,38
+Kayaks & Canoes,KAYAKS_AND_CAN_0048,Alpenglow,9,2541.78,7
+Kayaks & Canoes,KAYAKS_AND_CAN_0050,Ironpass,16,1281.92,49
+Kayaks & Canoes,KAYAKS_AND_CAN_0051,Terracross,7,1594.32,73
+Kayaks & Canoes,KAYAKS_AND_CAN_0055,Ridgecrest,10,3187.2,36
+Kayaks & Canoes,KAYAKS_AND_CAN_0060,Rockline,9,4557.06,84
+Kayaks & Canoes,KAYAKS_AND_CAN_0063,Coastline,5,424.4,58
+Kayaks & Canoes,KAYAKS_AND_CAN_0066,Rockline,14,2530.08,79
+Kayaks & Canoes,KAYAKS_AND_CAN_0068,Rockline,9,4273.47,75
+Kayaks & Canoes,KAYAKS_AND_CAN_0069,Ridgecrest,6,3883.32,43
+Kayaks & Canoes,KAYAKS_AND_CAN_0071,Ironpass,4,1407.92,32
+Kayaks & Canoes,KAYAKS_AND_CAN_0072,Ridgecrest,7,2635.57,7
+Kayaks & Canoes,KAYAKS_AND_CAN_0077,Ironpass,13,3192.15,56
+Paddle & SUP Accessories,PADDLE_AND_SUP_0005,Stonepath,19,10897.64,33
+Paddle & SUP Accessories,PADDLE_AND_SUP_0028,Duskridge,16,2176.16,24
+Paddle & SUP Accessories,PADDLE_AND_SUP_0037,Canyonset,4,520.28,38
+Paddle & SUP Accessories,PADDLE_AND_SUP_0046,Firncrest,12,4102.68,51
+Paddle & SUP Accessories,PADDLE_AND_SUP_0059,Powderline,7,1795.57,33
+Paddle & SUP Accessories,PADDLE_AND_SUP_0060,Powderline,5,1262.75,63
+Paddle & SUP Accessories,PADDLE_AND_SUP_0069,Iceform,16,314.08,22
+Paddle & SUP Accessories,PADDLE_AND_SUP_0077,Canyonset,7,4158.42,5
+Paddle & SUP Accessories,PADDLE_AND_SUP_0082,Duskridge,14,6145.86,75
+Paddle & SUP Accessories,PADDLE_AND_SUP_0102,Canyonset,5,1530.0,38
+Paddle & SUP Accessories,PADDLE_AND_SUP_0110,Firncrest,5,2432.15,11
+Paddle & SUP Accessories,PADDLE_AND_SUP_0120,Canyonset,12,1285.2,82
+Paddle & SUP Accessories,PADDLE_AND_SUP_0137,Basecamp,7,1356.11,74
+Paddle & SUP Accessories,PADDLE_AND_SUP_0143,Basecamp,6,112.14,7
+Camping & Shelter,CAMPING_AND_SH_0007,Gravelpath,6,2542.68,7
+Camping & Shelter,CAMPING_AND_SH_0008,Opentrail,5,3088.6,22
+Camping & Shelter,CAMPING_AND_SH_0012,Iceform,17,9702.41,45
+Camping & Shelter,CAMPING_AND_SH_0013,Iceform,5,2927.9,28
+Camping & Shelter,CAMPING_AND_SH_0015,Iceform,10,322.7,18
+Camping & Shelter,CAMPING_AND_SH_0019,Northeave,10,3569.7,54
+Camping & Shelter,CAMPING_AND_SH_0020,Iceform,10,4889.7,43
+Camping & Shelter,CAMPING_AND_SH_0035,Gravelpath,15,5066.85,52
+Camping & Shelter,CAMPING_AND_SH_0036,Powderline,3,982.47,27
+Camping & Shelter,CAMPING_AND_SH_0039,Gravelpath,6,122.94,48
+Camping & Shelter,CAMPING_AND_SH_0041,Northeave,3,1931.49,75
+Camping & Shelter,CAMPING_AND_SH_0042,Opentrail,2,707.2,13
+Camping & Shelter,CAMPING_AND_SH_0045,Gravelpath,1,510.17,34
+Camping & Shelter,CAMPING_AND_SH_0050,Gravelpath,11,5746.29,38
+Camping & Shelter,CAMPING_AND_SH_0051,Iceform,7,4365.41,84
+Camping & Shelter,CAMPING_AND_SH_0062,Northeave,6,628.98,34
+Camping & Shelter,CAMPING_AND_SH_0066,Powderline,5,1584.6,51
+Camping & Shelter,CAMPING_AND_SH_0071,Iceform,8,4701.84,64
+Camping & Shelter,CAMPING_AND_SH_0073,Frostline,5,1672.3,7
+Camping & Shelter,CAMPING_AND_SH_0078,Iceform,6,1766.1,36
+Camping & Shelter,CAMPING_AND_SH_0080,Gravelpath,12,3618.36,5
+Camping & Shelter,CAMPING_AND_SH_0094,Shorebreak,3,629.07,14
+Camping & Shelter,CAMPING_AND_SH_0101,Frostline,22,12003.64,88
+Camping & Shelter,CAMPING_AND_SH_0103,Opentrail,5,1106.55,54
+Camping & Shelter,CAMPING_AND_SH_0112,Northeave,23,14368.79,54
+Camping & Shelter,CAMPING_AND_SH_0114,Frostline,11,5302.11,50
+Camping & Shelter,CAMPING_AND_SH_0116,Iceform,44,27041.96,45
+Camping & Shelter,CAMPING_AND_SH_0126,Northeave,8,965.76,46
+Camping & Shelter,CAMPING_AND_SH_0130,Gravelpath,2,457.7,55
+Camping & Shelter,CAMPING_AND_SH_0133,Shorebreak,11,3629.78,23
+Camping & Shelter,CAMPING_AND_SH_0138,Iceform,3,1801.23,44
+Camping & Shelter,CAMPING_AND_SH_0143,Gravelpath,10,779.3,29
+Camping & Shelter,CAMPING_AND_SH_0145,Frostline,9,3348.45,65
+Camping & Shelter,CAMPING_AND_SH_0148,Gravelpath,38,15666.64,94
+Camping & Shelter,CAMPING_AND_SH_0149,Gravelpath,13,4738.5,35
+Camping & Shelter,CAMPING_AND_SH_0153,Northeave,25,7512.25,14
+Sleep Systems,SLEEP_SYSTEMS_0009,Ridgecrest,7,636.02,71
+Sleep Systems,SLEEP_SYSTEMS_0016,Ironpass,4,1362.36,17
+Sleep Systems,SLEEP_SYSTEMS_0018,Clearwater,18,3974.94,79
+Sleep Systems,SLEEP_SYSTEMS_0019,Canyonset,11,1899.04,7
+Sleep Systems,SLEEP_SYSTEMS_0025,Ironpass,21,1981.77,53
+Sleep Systems,SLEEP_SYSTEMS_0030,Ridgecrest,19,6751.65,35
+Sleep Systems,SLEEP_SYSTEMS_0033,Ridgecrest,14,4419.8,24
+Sleep Systems,SLEEP_SYSTEMS_0036,Ridgecrest,1,245.77,44
+Sleep Systems,SLEEP_SYSTEMS_0038,Clearwater,7,382.69,33
+Sleep Systems,SLEEP_SYSTEMS_0039,Summitform,7,3757.18,37
+Sleep Systems,SLEEP_SYSTEMS_0040,Summitform,9,4873.95,35
+Sleep Systems,SLEEP_SYSTEMS_0047,Canyonset,6,1266.24,19
+Sleep Systems,SLEEP_SYSTEMS_0054,Gravelpath,14,7457.24,91
+Sleep Systems,SLEEP_SYSTEMS_0056,Shorebreak,5,138.95,30
+Sleep Systems,SLEEP_SYSTEMS_0059,Ridgecrest,4,102.16,53
+Sleep Systems,SLEEP_SYSTEMS_0069,Clearwater,1,87.85,11
+Sleep Systems,SLEEP_SYSTEMS_0073,Shorebreak,16,427.84,56
+Sleep Systems,SLEEP_SYSTEMS_0074,Shorebreak,5,312.25,58
+Sleep Systems,SLEEP_SYSTEMS_0076,Ironpass,10,4892.0,52
+Sleep Systems,SLEEP_SYSTEMS_0084,Summitform,15,3133.2,48
+Sleep Systems,SLEEP_SYSTEMS_0091,Clearwater,6,3544.38,17
+Sleep Systems,SLEEP_SYSTEMS_0094,Ironpass,11,4435.97,73
+Sleep Systems,SLEEP_SYSTEMS_0101,Ridgecrest,1,437.02,9
+Sleep Systems,SLEEP_SYSTEMS_0102,Basecamp,11,712.58,107
+Sleep Systems,SLEEP_SYSTEMS_0109,Ridgecrest,8,1665.12,19
+Climbing Gear,CLIMBING_GEAR_0002,Highmark,8,887.52,18
+Climbing Gear,CLIMBING_GEAR_0006,Hardpack,5,854.45,7
+Climbing Gear,CLIMBING_GEAR_0007,Coastline,5,1035.45,20
+Climbing Gear,CLIMBING_GEAR_0019,Coastline,14,2182.46,56
+Climbing Gear,CLIMBING_GEAR_0024,Opentrail,9,3627.09,32
+Climbing Gear,CLIMBING_GEAR_0025,Highmark,6,3004.5,9
+Climbing Gear,CLIMBING_GEAR_0026,Hardpack,22,10714.88,20
+Climbing Gear,CLIMBING_GEAR_0030,Opentrail,6,1027.56,13
+Climbing Gear,CLIMBING_GEAR_0033,Coastline,7,3876.39,9
+Climbing Gear,CLIMBING_GEAR_0036,Coastline,5,771.25,7
+Climbing Gear,CLIMBING_GEAR_0049,Hardpack,4,286.04,7
+Climbing Gear,CLIMBING_GEAR_0056,Opentrail,2,1031.92,3
+Climbing Gear,CLIMBING_GEAR_0073,Highmark,7,400.19,17
+Climbing Gear,CLIMBING_GEAR_0089,Coastline,37,1919.93,27
+Climbing Gear,CLIMBING_GEAR_0092,Hardpack,7,4210.71,33
+Climbing Gear,CLIMBING_GEAR_0100,Opentrail,7,957.53,19
+Climbing Gear,CLIMBING_GEAR_0116,Opentrail,2,1284.86,63
+Climbing Gear,CLIMBING_GEAR_0131,Coastline,26,13712.92,36
+Climbing Gear,CLIMBING_GEAR_0133,Opentrail,4,2034.64,7
+Climbing Gear,CLIMBING_GEAR_0136,Coastline,40,25838.0,30
+Climbing Gear,CLIMBING_GEAR_0151,Coastline,5,2757.55,38
+Climbing Gear,CLIMBING_GEAR_0161,Opentrail,5,1231.75,74
+Climbing Gear,CLIMBING_GEAR_0165,Hardpack,3,622.35,13
+Climbing Gear,CLIMBING_GEAR_0173,Opentrail,6,2772.66,25
+Climbing Gear,CLIMBING_GEAR_0181,Hardpack,8,2581.84,19
+Climbing Gear,CLIMBING_GEAR_0184,Coastline,9,5576.13,29
+Climbing Gear,CLIMBING_GEAR_0228,Coastline,6,2005.02,62
+Packs & Luggage,PACKS_AND_LUGG_0005,Stonepath,8,5069.76,67
+Packs & Luggage,PACKS_AND_LUGG_0007,Rockline,13,1573.13,26
+Packs & Luggage,PACKS_AND_LUGG_0011,Coldrun,5,772.85,48
+Packs & Luggage,PACKS_AND_LUGG_0012,Ridgecrest,3,950.31,63
+Packs & Luggage,PACKS_AND_LUGG_0014,Hardpack,9,1387.35,31
+Packs & Luggage,PACKS_AND_LUGG_0029,Rockline,3,582.21,109
+Packs & Luggage,PACKS_AND_LUGG_0032,Hardpack,28,7978.04,43
+Packs & Luggage,PACKS_AND_LUGG_0036,Hardpack,7,2235.66,42
+Packs & Luggage,PACKS_AND_LUGG_0040,Coldrun,15,4912.65,5
+Packs & Luggage,PACKS_AND_LUGG_0043,Coldrun,6,1123.14,53
+Packs & Luggage,PACKS_AND_LUGG_0046,Ridgecrest,15,9025.8,15
+Packs & Luggage,PACKS_AND_LUGG_0052,Ridgecrest,7,3791.48,25
+Packs & Luggage,PACKS_AND_LUGG_0059,Hardpack,6,3307.8,7
+Packs & Luggage,PACKS_AND_LUGG_0062,Rockline,41,19380.29,23
+Packs & Luggage,PACKS_AND_LUGG_0070,Stonepath,9,5557.95,32
+Packs & Luggage,PACKS_AND_LUGG_0081,Stonepath,4,1794.32,32
+Packs & Luggage,PACKS_AND_LUGG_0085,Stonepath,7,2129.82,3
+Packs & Luggage,PACKS_AND_LUGG_0088,Rockline,8,4012.32,25
+Packs & Luggage,PACKS_AND_LUGG_0090,Hardpack,4,1345.64,35
+Packs & Luggage,PACKS_AND_LUGG_0093,Rockline,4,1948.68,31
+Packs & Luggage,PACKS_AND_LUGG_0094,Stonepath,7,3502.73,7
+Packs & Luggage,PACKS_AND_LUGG_0107,Hardpack,7,1028.93,63
+Packs & Luggage,PACKS_AND_LUGG_0111,Hardpack,3,941.76,33
+Packs & Luggage,PACKS_AND_LUGG_0114,Stonepath,3,1175.19,7
+Packs & Luggage,PACKS_AND_LUGG_0118,Rockline,18,5853.96,58
+Packs & Luggage,PACKS_AND_LUGG_0121,Stonepath,9,2332.35,13
+Packs & Luggage,PACKS_AND_LUGG_0122,Stonepath,2,1120.58,107
+Packs & Luggage,PACKS_AND_LUGG_0125,Stonepath,7,1004.15,40
+Packs & Luggage,PACKS_AND_LUGG_0126,Hardpack,11,4744.74,6
+Snow Outerwear,SNOW_OUTERWEAR_0001,Firncrest,2,399.3,7
+Snow Outerwear,SNOW_OUTERWEAR_0008,Pinnacle,9,3788.19,111
+Snow Outerwear,SNOW_OUTERWEAR_0010,Edgewood,7,223.79,23
+Snow Outerwear,SNOW_OUTERWEAR_0013,Deepfreeze,4,840.68,59
+Snow Outerwear,SNOW_OUTERWEAR_0015,Edgewood,13,6297.33,16
+Snow Outerwear,SNOW_OUTERWEAR_0016,Ironpass,13,1164.15,73
+Snow Outerwear,SNOW_OUTERWEAR_0023,Deepfreeze,8,1785.12,35
+Snow Outerwear,SNOW_OUTERWEAR_0025,Ironpass,2,230.34,75
+Snow Outerwear,SNOW_OUTERWEAR_0029,Pinnacle,5,1243.5,56
+Snow Outerwear,SNOW_OUTERWEAR_0047,Edgewood,11,3312.54,26
+Snow Outerwear,SNOW_OUTERWEAR_0050,Edgewood,10,3476.7,29
+Snow Outerwear,SNOW_OUTERWEAR_0051,Edgewood,2,908.78,21
+Snow Outerwear,SNOW_OUTERWEAR_0059,Pinnacle,15,4014.15,57
+Snow Outerwear,SNOW_OUTERWEAR_0063,Deepfreeze,2,341.48,15
+Snow Outerwear,SNOW_OUTERWEAR_0067,Edgewood,6,2181.36,36
+Snow Outerwear,SNOW_OUTERWEAR_0111,Firncrest,43,5361.24,47
+Snow Outerwear,SNOW_OUTERWEAR_0114,Pinnacle,7,1096.83,30
+Snow Outerwear,SNOW_OUTERWEAR_0118,Pinnacle,59,28696.42,72
+Snow Outerwear,SNOW_OUTERWEAR_0123,Edgewood,8,3702.32,84
+Snow Outerwear,SNOW_OUTERWEAR_0124,Ironpass,7,2654.54,117
+Snow Outerwear,SNOW_OUTERWEAR_0132,Pinnacle,8,4654.32,69
+Snow Outerwear,SNOW_OUTERWEAR_0141,Deepfreeze,13,6738.42,88
+Snow Outerwear,SNOW_OUTERWEAR_0142,Firncrest,6,2209.02,29
+Snow Outerwear,SNOW_OUTERWEAR_0144,Ironpass,13,5769.92,49
+Snow Outerwear,SNOW_OUTERWEAR_0149,Ironpass,21,10079.37,84
+Snow Outerwear,SNOW_OUTERWEAR_0151,Firncrest,10,3484.2,20
+Snow Outerwear,SNOW_OUTERWEAR_0155,Ironpass,3,825.18,64
+Snow Outerwear,SNOW_OUTERWEAR_0156,Ironpass,37,5023.49,13
+Snow Outerwear,SNOW_OUTERWEAR_0161,Edgewood,17,10979.96,64
+Snow Outerwear,SNOW_OUTERWEAR_0162,Pinnacle,9,3077.1,11
+Snow Outerwear,SNOW_OUTERWEAR_0163,Pinnacle,6,1852.2,70
+Snow Outerwear,SNOW_OUTERWEAR_0166,Pinnacle,4,2277.12,57
+Snow Outerwear,SNOW_OUTERWEAR_0169,Ironpass,4,575.6,66
+Snow Outerwear,SNOW_OUTERWEAR_0174,Pinnacle,4,622.36,38
+Snow Outerwear,SNOW_OUTERWEAR_0176,Edgewood,5,2675.05,62
+Snow Outerwear,SNOW_OUTERWEAR_0188,Ironpass,6,1455.9,7
+Snow Outerwear,SNOW_OUTERWEAR_0190,Firncrest,11,4126.98,103
+Snow Outerwear,SNOW_OUTERWEAR_0214,Pinnacle,6,1182.6,66
+Snow Outerwear,SNOW_OUTERWEAR_0217,Pinnacle,3,1127.1,7
+Snow Outerwear,SNOW_OUTERWEAR_0219,Pinnacle,4,941.88,52
+Snow Outerwear,SNOW_OUTERWEAR_0227,Pinnacle,8,1228.96,27
+Snow Outerwear,SNOW_OUTERWEAR_0233,Ironpass,20,10626.0,49
+Snow Outerwear,SNOW_OUTERWEAR_0235,Firncrest,4,1453.8,80
+Snow Outerwear,SNOW_OUTERWEAR_0239,Firncrest,7,234.22,12
+Snow Outerwear,SNOW_OUTERWEAR_0240,Pinnacle,5,1557.35,38
+Snow Outerwear,SNOW_OUTERWEAR_0242,Edgewood,8,2376.48,57
+Snow Outerwear,SNOW_OUTERWEAR_0245,Ironpass,1,175.86,34
+Snow Outerwear,SNOW_OUTERWEAR_0247,Deepfreeze,15,9384.6,25
+Snow Outerwear,SNOW_OUTERWEAR_0248,Edgewood,13,5159.83,7
+Technical Outerwear,TECHNICAL_OUTE_0010,Deepfreeze,5,2705.55,29
+Technical Outerwear,TECHNICAL_OUTE_0025,Edgewood,1,649.67,62
+Technical Outerwear,TECHNICAL_OUTE_0027,Tidefall,7,147.63,58
+Technical Outerwear,TECHNICAL_OUTE_0028,Edgewood,7,4497.01,88
+Technical Outerwear,TECHNICAL_OUTE_0031,Deepfreeze,7,3539.48,12
+Technical Outerwear,TECHNICAL_OUTE_0033,Tidefall,1,523.35,39
+Technical Outerwear,TECHNICAL_OUTE_0035,Ridgecrest,10,2890.4,3
+Technical Outerwear,TECHNICAL_OUTE_0038,Coldrun,5,374.15,27
+Technical Outerwear,TECHNICAL_OUTE_0051,Ridgecrest,12,877.56,30
+Technical Outerwear,TECHNICAL_OUTE_0055,Edgewood,14,354.9,27
+Technical Outerwear,TECHNICAL_OUTE_0062,Tidefall,7,2161.6,30
+Technical Outerwear,TECHNICAL_OUTE_0063,Deepfreeze,8,4980.0,22
+Technical Outerwear,TECHNICAL_OUTE_0066,Coldrun,11,3857.15,7
+Technical Outerwear,TECHNICAL_OUTE_0073,Deepfreeze,9,2571.57,4
+Technical Outerwear,TECHNICAL_OUTE_0075,Edgewood,9,2138.22,48
+Technical Outerwear,TECHNICAL_OUTE_0077,Tidefall,21,9254.07,36
+Technical Outerwear,TECHNICAL_OUTE_0081,Coldrun,5,3162.2,6
+Technical Outerwear,TECHNICAL_OUTE_0093,Edgewood,6,642.24,22
+Technical Outerwear,TECHNICAL_OUTE_0095,Deepfreeze,3,1348.41,84
+Technical Outerwear,TECHNICAL_OUTE_0114,Coldrun,1,477.2,17
+Technical Outerwear,TECHNICAL_OUTE_0117,Tidefall,12,3295.92,70
+Technical Outerwear,TECHNICAL_OUTE_0131,Coldrun,8,1666.32,14
+Technical Outerwear,TECHNICAL_OUTE_0134,Ridgecrest,8,508.16,56
+Technical Outerwear,TECHNICAL_OUTE_0138,Coldrun,3,1344.75,41
+Technical Outerwear,TECHNICAL_OUTE_0139,Edgewood,11,4429.15,35
+Technical Outerwear,TECHNICAL_OUTE_0142,Coldrun,5,2993.9,48
+Technical Outerwear,TECHNICAL_OUTE_0143,Edgewood,5,703.65,65
+Technical Outerwear,TECHNICAL_OUTE_0144,Tidefall,10,1959.1,9
+Technical Outerwear,TECHNICAL_OUTE_0145,Coldrun,7,555.1,55
+Technical Outerwear,TECHNICAL_OUTE_0146,Deepfreeze,3,694.65,3
+Technical Outerwear,TECHNICAL_OUTE_0167,Coldrun,5,2314.7,40
+Technical Outerwear,TECHNICAL_OUTE_0172,Coldrun,7,913.15,7
+Technical Outerwear,TECHNICAL_OUTE_0186,Edgewood,3,1798.26,77
+Midlayer & Fleece,MIDLAYER_AND_F_0007,Northeave,8,3611.6,25
+Midlayer & Fleece,MIDLAYER_AND_F_0016,Mesaflow,29,6585.61,27
+Midlayer & Fleece,MIDLAYER_AND_F_0021,Mesaflow,3,1587.21,26
+Midlayer & Fleece,MIDLAYER_AND_F_0025,Northeave,18,2140.74,33
+Midlayer & Fleece,MIDLAYER_AND_F_0029,Mesaflow,6,1402.14,42
+Midlayer & Fleece,MIDLAYER_AND_F_0045,Highmark,3,1780.65,57
+Midlayer & Fleece,MIDLAYER_AND_F_0049,Coastline,12,7343.76,31
+Midlayer & Fleece,MIDLAYER_AND_F_0050,Stonepath,11,4908.42,20
+Midlayer & Fleece,MIDLAYER_AND_F_0063,Mesaflow,31,670.53,30
+Midlayer & Fleece,MIDLAYER_AND_F_0072,Coastline,3,1080.0,8
+Midlayer & Fleece,MIDLAYER_AND_F_0081,Coastline,10,2653.3,7
+Midlayer & Fleece,MIDLAYER_AND_F_0082,Mesaflow,8,851.28,12
+Midlayer & Fleece,MIDLAYER_AND_F_0089,Stonepath,18,6016.68,9
+Midlayer & Fleece,MIDLAYER_AND_F_0094,Stonepath,2,934.86,12
+Midlayer & Fleece,MIDLAYER_AND_F_0097,Clearwater,23,1889.68,9
+Midlayer & Fleece,MIDLAYER_AND_F_0101,Tidefall,5,642.25,30
+Midlayer & Fleece,MIDLAYER_AND_F_0113,Mesaflow,10,5066.6,3
+Midlayer & Fleece,MIDLAYER_AND_F_0126,Stonepath,9,4015.89,120
+Midlayer & Fleece,MIDLAYER_AND_F_0132,Coastline,5,151.15,20
+Midlayer & Fleece,MIDLAYER_AND_F_0142,Coastline,14,6017.76,26
+Midlayer & Fleece,MIDLAYER_AND_F_0162,Mesaflow,2,1141.94,74
+Midlayer & Fleece,MIDLAYER_AND_F_0173,Clearwater,4,887.16,23
+Midlayer & Fleece,MIDLAYER_AND_F_0174,Clearwater,10,2274.8,35
+Midlayer & Fleece,MIDLAYER_AND_F_0180,Northeave,6,1333.68,36
+Midlayer & Fleece,MIDLAYER_AND_F_0184,Northeave,8,2545.84,51
+Midlayer & Fleece,MIDLAYER_AND_F_0187,Tidefall,9,3389.94,19
+Midlayer & Fleece,MIDLAYER_AND_F_0193,Stonepath,4,2476.4,7
+Midlayer & Fleece,MIDLAYER_AND_F_0199,Stonepath,10,827.4,3
+Midlayer & Fleece,MIDLAYER_AND_F_0201,Coastline,10,3846.0,22
+Midlayer & Fleece,MIDLAYER_AND_F_0204,Highmark,33,10815.75,21
+Midlayer & Fleece,MIDLAYER_AND_F_0205,Northeave,11,6670.51,28
+Midlayer & Fleece,MIDLAYER_AND_F_0207,Tidefall,2,523.62,26
+Midlayer & Fleece,MIDLAYER_AND_F_0208,Tidefall,2,374.58,23
+Midlayer & Fleece,MIDLAYER_AND_F_0211,Northeave,14,3516.52,81
+Midlayer & Fleece,MIDLAYER_AND_F_0226,Stonepath,3,1198.23,19
+Midlayer & Fleece,MIDLAYER_AND_F_0244,Tidefall,18,6887.52,53
+Midlayer & Fleece,MIDLAYER_AND_F_0252,Highmark,14,1169.98,18
+Midlayer & Fleece,MIDLAYER_AND_F_0257,Tidefall,13,1141.27,53
+Midlayer & Fleece,MIDLAYER_AND_F_0258,Stonepath,7,1103.69,28
+Midlayer & Fleece,MIDLAYER_AND_F_0259,Mesaflow,12,432.84,3
+Midlayer & Fleece,MIDLAYER_AND_F_0261,Mesaflow,4,2212.08,87
+Baselayer,BASELAYER_0006,Opentrail,3,189.18,120
+Baselayer,BASELAYER_0007,Ridgecrest,7,4477.97,24
+Baselayer,BASELAYER_0035,Ridgecrest,3,143.52,28
+Baselayer,BASELAYER_0037,Opentrail,8,3951.92,46
+Baselayer,BASELAYER_0047,Opentrail,5,2384.45,14
+Baselayer,BASELAYER_0051,Summitform,15,7035.9,3
+Baselayer,BASELAYER_0054,Firncrest,2,1165.4,38
+Baselayer,BASELAYER_0055,Ridgecrest,12,5949.6,30
+Baselayer,BASELAYER_0081,Summitform,15,6721.05,33
+Baselayer,BASELAYER_0089,Ridgecrest,13,4897.36,37
+Baselayer,BASELAYER_0093,Ridgecrest,6,3396.72,14
+Baselayer,BASELAYER_0107,Opentrail,5,2855.85,21
+Baselayer,BASELAYER_0118,Ridgecrest,12,698.88,120
+Baselayer,BASELAYER_0119,Highmark,8,3228.16,22
+Baselayer,BASELAYER_0125,Ridgecrest,4,649.0,19
+Casual Apparel,CASUAL_APPAREL_0016,Rockline,8,3485.68,81
+Casual Apparel,CASUAL_APPAREL_0027,Frostline,4,2178.72,19
+Casual Apparel,CASUAL_APPAREL_0030,Rockline,7,2669.03,44
+Casual Apparel,CASUAL_APPAREL_0033,Rockline,6,2807.58,20
+Casual Apparel,CASUAL_APPAREL_0038,Frostline,5,1990.65,51
+Casual Apparel,CASUAL_APPAREL_0068,Deepfreeze,6,1524.66,7
+Casual Apparel,CASUAL_APPAREL_0075,Rockline,6,1210.62,38
+Casual Apparel,CASUAL_APPAREL_0086,Deepfreeze,5,2380.85,34
+Casual Apparel,CASUAL_APPAREL_0094,Stonepath,6,1127.58,15
+Casual Apparel,CASUAL_APPAREL_0110,Iceform,6,113.52,23
+Casual Apparel,CASUAL_APPAREL_0114,Deepfreeze,9,1755.72,44
+Casual Apparel,CASUAL_APPAREL_0128,Stonepath,3,1253.49,15
+Casual Apparel,CASUAL_APPAREL_0147,Stonepath,10,1261.2,20
+Casual Apparel,CASUAL_APPAREL_0187,Deepfreeze,18,7817.04,3
+Casual Apparel,CASUAL_APPAREL_0189,Iceform,15,5880.9,40
+Casual Apparel,CASUAL_APPAREL_0191,Iceform,2,852.88,48
+Casual Apparel,CASUAL_APPAREL_0196,Deepfreeze,3,884.52,3
+Casual Apparel,CASUAL_APPAREL_0211,Iceform,4,792.0,28
+Casual Apparel,CASUAL_APPAREL_0215,Rockline,7,133.63,12
+Casual Apparel,CASUAL_APPAREL_0221,Frostline,16,4639.84,49
+Casual Apparel,CASUAL_APPAREL_0242,Stonepath,15,3539.4,13
+Casual Apparel,CASUAL_APPAREL_0243,Stonepath,7,4053.98,21
+Casual Apparel,CASUAL_APPAREL_0245,Iceform,11,1691.03,19
+Casual Apparel,CASUAL_APPAREL_0253,Iceform,9,372.6,3
+Casual Apparel,CASUAL_APPAREL_0264,Deepfreeze,8,241.84,25
+Casual Apparel,CASUAL_APPAREL_0266,Frostline,6,211.56,72
+Casual Apparel,CASUAL_APPAREL_0268,Stonepath,1,154.45,10
+Casual Apparel,CASUAL_APPAREL_0275,Frostline,5,2442.4,9
+Casual Apparel,CASUAL_APPAREL_0283,Stonepath,7,3680.53,53
+Casual Apparel,CASUAL_APPAREL_0292,Deepfreeze,7,987.98,52
+Casual Apparel,CASUAL_APPAREL_0297,Rockline,5,2222.8,59
+Casual Apparel,CASUAL_APPAREL_0298,Deepfreeze,14,5918.08,19
+Casual Apparel,CASUAL_APPAREL_0305,Rockline,10,3480.8,14
+Casual Apparel,CASUAL_APPAREL_0307,Stonepath,6,3104.04,17
+Casual Apparel,CASUAL_APPAREL_0310,Deepfreeze,7,3477.11,6
+Casual Apparel,CASUAL_APPAREL_0323,Rockline,4,2285.36,7
+Casual Apparel,CASUAL_APPAREL_0327,Stonepath,5,944.3,34
+Casual Apparel,CASUAL_APPAREL_0336,Stonepath,5,978.7,27
+Casual Apparel,CASUAL_APPAREL_0344,Stonepath,18,8838.36,31
+Casual Apparel,CASUAL_APPAREL_0346,Deepfreeze,10,5588.8,25
+Hiking Footwear,HIKING_FOOTWEA_0009,Trailhead,4,348.52,31
+Hiking Footwear,HIKING_FOOTWEA_0012,Iceform,11,5289.68,20
+Hiking Footwear,HIKING_FOOTWEA_0022,Trailhead,4,118.36,9
+Hiking Footwear,HIKING_FOOTWEA_0025,Iceform,13,7594.86,3
+Hiking Footwear,HIKING_FOOTWEA_0031,Pinnacle,6,2563.56,26
+Hiking Footwear,HIKING_FOOTWEA_0049,Iceform,6,1373.64,45
+Hiking Footwear,HIKING_FOOTWEA_0051,Pinnacle,6,3744.96,44
+Hiking Footwear,HIKING_FOOTWEA_0060,Clearwater,12,5422.56,23
+Hiking Footwear,HIKING_FOOTWEA_0068,Clearwater,11,2306.59,7
+Hiking Footwear,HIKING_FOOTWEA_0076,Trailhead,13,6139.12,36
+Hiking Footwear,HIKING_FOOTWEA_0080,Pinnacle,8,3908.64,27
+Hiking Footwear,HIKING_FOOTWEA_0090,Trailhead,2,1143.6,21
+Hiking Footwear,HIKING_FOOTWEA_0096,Iceform,6,3736.74,31
+Hiking Footwear,HIKING_FOOTWEA_0112,Trailhead,33,3470.61,12
+Hiking Footwear,HIKING_FOOTWEA_0114,Clearwater,10,3059.9,115
+Hiking Footwear,HIKING_FOOTWEA_0117,Iceform,7,4219.95,28
+Hiking Footwear,HIKING_FOOTWEA_0121,Trailhead,17,947.41,22
+Hiking Footwear,HIKING_FOOTWEA_0141,Iceform,11,6759.61,25
+Hiking Footwear,HIKING_FOOTWEA_0147,Pinnacle,14,6601.28,16
+Hiking Footwear,HIKING_FOOTWEA_0150,Pinnacle,17,10811.83,17
+Hiking Footwear,HIKING_FOOTWEA_0170,Iceform,7,3947.02,37
+Snow Boots & Footwear,SNOW_BOOTS_AND_0008,Highmark,30,5402.1,72
+Snow Boots & Footwear,SNOW_BOOTS_AND_0012,Stonepath,21,3993.57,72
+Snow Boots & Footwear,SNOW_BOOTS_AND_0013,Stonepath,1,474.57,10
+Snow Boots & Footwear,SNOW_BOOTS_AND_0016,Ironpass,12,725.52,36
+Snow Boots & Footwear,SNOW_BOOTS_AND_0023,Ironpass,8,4384.96,37
+Snow Boots & Footwear,SNOW_BOOTS_AND_0024,Ironpass,4,292.08,24
+Snow Boots & Footwear,SNOW_BOOTS_AND_0026,Ironpass,14,6197.66,32
+Snow Boots & Footwear,SNOW_BOOTS_AND_0028,Stonepath,7,2499.14,53
+Snow Boots & Footwear,SNOW_BOOTS_AND_0030,Shorebreak,3,1272.63,33
+Snow Boots & Footwear,SNOW_BOOTS_AND_0036,Ironpass,8,1263.84,107
+Snow Boots & Footwear,SNOW_BOOTS_AND_0037,Ironpass,32,15610.24,22
+Snow Boots & Footwear,SNOW_BOOTS_AND_0045,Ironpass,2,96.42,75
+Snow Boots & Footwear,SNOW_BOOTS_AND_0046,Highmark,2,1165.06,14
+Snow Boots & Footwear,SNOW_BOOTS_AND_0055,Highmark,12,5616.84,7
+Snow Boots & Footwear,SNOW_BOOTS_AND_0063,Ironpass,5,2988.95,6
+Snow Boots & Footwear,SNOW_BOOTS_AND_0068,Ironpass,10,4278.4,55
+Snow Boots & Footwear,SNOW_BOOTS_AND_0090,Ironpass,6,1631.64,106
+Snow Boots & Footwear,SNOW_BOOTS_AND_0093,Shorebreak,11,1561.56,32
+Snow Boots & Footwear,SNOW_BOOTS_AND_0095,Stonepath,15,5238.9,29
+Snow Boots & Footwear,SNOW_BOOTS_AND_0100,Highmark,8,4185.6,31
+Snow Boots & Footwear,SNOW_BOOTS_AND_0104,Highmark,6,3665.58,7
+Snow Boots & Footwear,SNOW_BOOTS_AND_0107,Dustfall,12,5122.92,20
+Snow Boots & Footwear,SNOW_BOOTS_AND_0116,Ironpass,6,2355.96,7
+Snow Boots & Footwear,SNOW_BOOTS_AND_0124,Stonepath,14,8821.96,88
+Snow Boots & Footwear,SNOW_BOOTS_AND_0125,Dustfall,3,741.81,11
+Casual Footwear,CASUAL_FOOTWEA_0017,Iceform,5,949.55,46
+Casual Footwear,CASUAL_FOOTWEA_0019,Mesaflow,1,564.78,18
+Casual Footwear,CASUAL_FOOTWEA_0021,Mesaflow,6,1981.62,59
+Casual Footwear,CASUAL_FOOTWEA_0023,Iceform,19,751.45,23
+Casual Footwear,CASUAL_FOOTWEA_0034,Deepfreeze,7,549.78,32
+Casual Footwear,CASUAL_FOOTWEA_0042,Ridgecrest,12,6765.48,36
+Casual Footwear,CASUAL_FOOTWEA_0049,Iceform,11,4588.98,7
+Casual Footwear,CASUAL_FOOTWEA_0080,Canyonset,13,2358.59,70
+Casual Footwear,CASUAL_FOOTWEA_0083,Canyonset,12,2525.16,21
+Casual Footwear,CASUAL_FOOTWEA_0096,Ridgecrest,2,745.94,6
+Casual Footwear,CASUAL_FOOTWEA_0101,Hardpack,2,646.74,19
+Helmets & Protection,HELMETS_AND_PR_0001,Mesaflow,2,1174.28,87
+Helmets & Protection,HELMETS_AND_PR_0008,Shorebreak,17,4922.69,28
+Helmets & Protection,HELMETS_AND_PR_0013,Tidefall,6,2867.94,7
+Helmets & Protection,HELMETS_AND_PR_0019,Mesaflow,47,2163.41,59
+Helmets & Protection,HELMETS_AND_PR_0025,Mesaflow,21,13482.0,30
+Helmets & Protection,HELMETS_AND_PR_0057,Shorebreak,6,3651.9,22
+Helmets & Protection,HELMETS_AND_PR_0058,Mesaflow,17,3638.17,7
+Helmets & Protection,HELMETS_AND_PR_0065,Mesaflow,6,2678.46,25
+Helmets & Protection,HELMETS_AND_PR_0066,Mesaflow,7,3385.41,20
+Helmets & Protection,HELMETS_AND_PR_0074,Shorebreak,10,5102.6,24
+Helmets & Protection,HELMETS_AND_PR_0078,Shorebreak,10,331.8,40
+Goggles & Eyewear,GOGGLES_AND_EY_0003,Opentrail,2,230.38,97
+Goggles & Eyewear,GOGGLES_AND_EY_0006,Opentrail,6,1136.64,3
+Goggles & Eyewear,GOGGLES_AND_EY_0010,Opentrail,7,1377.67,64
+Goggles & Eyewear,GOGGLES_AND_EY_0029,Mesaflow,6,1940.88,3
+Goggles & Eyewear,GOGGLES_AND_EY_0036,Opentrail,7,3614.17,3
+Goggles & Eyewear,GOGGLES_AND_EY_0041,Mesaflow,15,3218.25,82
+Goggles & Eyewear,GOGGLES_AND_EY_0060,Summitform,6,2391.0,39
+Goggles & Eyewear,GOGGLES_AND_EY_0088,Mesaflow,5,1610.75,20
+Goggles & Eyewear,GOGGLES_AND_EY_0116,Summitform,16,4506.08,40
+Goggles & Eyewear,GOGGLES_AND_EY_0131,Opentrail,10,3555.1,6
+Goggles & Eyewear,GOGGLES_AND_EY_0136,Mesaflow,7,3531.57,3
+Goggles & Eyewear,GOGGLES_AND_EY_0140,Mesaflow,8,3110.08,7
+Goggles & Eyewear,GOGGLES_AND_EY_0143,Frostline,9,416.88,3
+Goggles & Eyewear,GOGGLES_AND_EY_0153,Opentrail,7,828.31,32
+Gloves & Handwear,GLOVES_AND_HAN_0002,Shorebreak,2,779.7,10
+Gloves & Handwear,GLOVES_AND_HAN_0007,Clearwater,24,15222.0,15
+Gloves & Handwear,GLOVES_AND_HAN_0022,Alpenglow,9,3601.17,14
+Gloves & Handwear,GLOVES_AND_HAN_0025,Clearwater,3,1419.42,46
+Gloves & Handwear,GLOVES_AND_HAN_0034,Alpenglow,30,2556.9,49
+Gloves & Handwear,GLOVES_AND_HAN_0068,Duskridge,9,3388.32,24
+Gloves & Handwear,GLOVES_AND_HAN_0091,Trailhead,11,1452.33,70
+Gloves & Handwear,GLOVES_AND_HAN_0107,Terracross,2,683.46,21
+Gloves & Handwear,GLOVES_AND_HAN_0114,Clearwater,6,3460.5,14
+Gloves & Handwear,GLOVES_AND_HAN_0117,Duskridge,5,1372.0,49
+Hydration & Nutrition,HYDRATION_AND__0007,Tidefall,12,3864.0,31
+Hydration & Nutrition,HYDRATION_AND__0016,Clearwater,11,5393.74,32
+Hydration & Nutrition,HYDRATION_AND__0022,Clearwater,45,2165.4,9
+Hydration & Nutrition,HYDRATION_AND__0037,Clearwater,25,9843.75,15
+Hydration & Nutrition,HYDRATION_AND__0041,Deepfreeze,2,332.72,37
+Hydration & Nutrition,HYDRATION_AND__0052,Clearwater,3,1174.23,32
+Hydration & Nutrition,HYDRATION_AND__0061,Deepfreeze,6,3747.72,23
+Hydration & Nutrition,HYDRATION_AND__0062,Mesaflow,3,167.19,5
+Hydration & Nutrition,HYDRATION_AND__0067,Tidefall,8,5032.56,17
+Hydration & Nutrition,HYDRATION_AND__0081,Mesaflow,10,4385.1,33
+Hydration & Nutrition,HYDRATION_AND__0098,Clearwater,2,868.84,17
+Hydration & Nutrition,HYDRATION_AND__0127,Deepfreeze,4,2584.44,21
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0009,Deepfreeze,12,6755.16,35
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0014,Coldrun,13,929.37,7
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0020,Coldrun,3,399.84,27
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0029,Clearwater,5,2445.95,10
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0039,Clearwater,5,574.55,24
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0042,Gravelpath,10,1235.1,33
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0043,Deepfreeze,11,4367.88,27
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0054,Highmark,10,4588.2,18
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0073,Deepfreeze,2,1176.22,27
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0083,Clearwater,30,7547.4,21
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0085,Gravelpath,20,12301.4,35
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0088,Highmark,8,5020.0,28
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0089,Highmark,7,1183.91,4
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0095,Highmark,9,2308.5,55
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0107,Gravelpath,8,2968.64,120
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0109,Gravelpath,4,1429.16,45
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0118,Clearwater,7,1292.41,15
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0119,Deepfreeze,3,402.39,3
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0126,Deepfreeze,15,8195.4,24
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0131,Coldrun,9,1729.89,12
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0138,Coldrun,9,784.89,24
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0140,Highmark,12,3110.16,39
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0141,Gravelpath,5,1006.95,27
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0143,Deepfreeze,5,503.75,25
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0160,Deepfreeze,7,2266.67,20
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0162,Deepfreeze,12,5947.2,48
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0165,Deepfreeze,6,2358.24,26
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0182,Gravelpath,24,9641.76,37
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0213,Deepfreeze,9,1198.17,32
+Camp Kitchen & Tools,CAMP_KITCHEN_A_0221,Highmark,8,711.84,44
+Navigation & Safety,NAVIGATION_AND_0001,Dustfall,6,1875.36,44
+Navigation & Safety,NAVIGATION_AND_0010,Canyonset,4,1749.48,17
+Navigation & Safety,NAVIGATION_AND_0021,Ironpass,4,223.36,36
+Navigation & Safety,NAVIGATION_AND_0024,Trailhead,3,1025.01,92
+Navigation & Safety,NAVIGATION_AND_0025,Canyonset,21,683.13,19
+Navigation & Safety,NAVIGATION_AND_0029,Dustfall,14,8107.82,7
+Navigation & Safety,NAVIGATION_AND_0031,Ridgecrest,6,2811.6,16
+Navigation & Safety,NAVIGATION_AND_0037,Ironpass,4,1297.4,43
+Navigation & Safety,NAVIGATION_AND_0039,Basecamp,7,1977.08,36
+Navigation & Safety,NAVIGATION_AND_0044,Basecamp,5,2067.95,39
+Navigation & Safety,NAVIGATION_AND_0047,Dustfall,78,38379.12,3
+Navigation & Safety,NAVIGATION_AND_0048,Basecamp,5,1600.65,4
+Navigation & Safety,NAVIGATION_AND_0054,Basecamp,3,543.12,34
+Navigation & Safety,NAVIGATION_AND_0062,Ridgecrest,6,2762.88,25
+Navigation & Safety,NAVIGATION_AND_0066,Trailhead,5,2100.75,64
+Navigation & Safety,NAVIGATION_AND_0072,Dustfall,13,4527.9,40
+Navigation & Safety,NAVIGATION_AND_0074,Basecamp,6,2053.26,7
+Navigation & Safety,NAVIGATION_AND_0076,Ridgecrest,23,3043.13,85
+Navigation & Safety,NAVIGATION_AND_0082,Canyonset,10,1443.9,33
+Navigation & Safety,NAVIGATION_AND_0100,Dustfall,5,711.55,7
+Navigation & Safety,NAVIGATION_AND_0105,Ironpass,4,1448.68,21
+Navigation & Safety,NAVIGATION_AND_0119,Canyonset,1,411.57,13
