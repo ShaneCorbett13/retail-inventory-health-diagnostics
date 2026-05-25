@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Exclude non-synthetic data files if accidentally added
+data/*.xlsx
+data/*.parquet
